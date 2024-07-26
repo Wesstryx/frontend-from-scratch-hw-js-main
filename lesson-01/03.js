@@ -10,7 +10,7 @@ let num = 20;
 let i = 1;
 
 while (i <= num) {
-    if (i % 2 === 0) {
+    if (i % 2 !== 0) {
         sum = sum + i;
     }
     i++
