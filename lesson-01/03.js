@@ -17,3 +17,5 @@ while (i <= num) {
 }
 
 console.log(sum);
+
+// hw-done
