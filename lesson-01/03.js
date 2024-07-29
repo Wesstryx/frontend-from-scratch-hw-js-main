@@ -13,7 +13,7 @@ while (i <= num) {
     if (i % 2 !== 0) {
         sum = sum + i;
     }
-    i++
+    i= i + 1;
 }
 
 console.log(sum);
