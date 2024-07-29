@@ -5,14 +5,15 @@
 */
 
 // your code
-let factorial = 0;
-let number = 20;
+let sum = 0;
+let num = 20;
 let i = 1;
 
-for (let i = 0; i <=number; i++) {
+while (i <= num) {
     if (i % 2 !== 0) {
-        factorial = factorial + i
+        sum = sum + i;
     }
+    i++
 }
 
 console.log(sum);
