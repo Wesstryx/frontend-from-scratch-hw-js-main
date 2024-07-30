@@ -12,4 +12,4 @@ while (i <= 20) {
 
 console.log(sum);
 
-//hw
+//hw1
