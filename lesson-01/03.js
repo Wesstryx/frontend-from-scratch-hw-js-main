@@ -15,4 +15,6 @@ while (i<numbers) {
     i++;
 }
 
+console.log(sum)
+
 // hw-done
