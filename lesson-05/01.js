@@ -36,8 +36,5 @@ console.log(game.resources.gold); // 120
 game.addResource('lumber', 15);  // Добавит 15 к лесу
 console.log(game.resources.lumber); // 65
 
-game.addResource('stone', 10);   // Добавит 10 к камню
-console.log(game.resources.stone); // 40
-
 game.addResource('food', 5);     // Попробуем добавить недействительный ресурс
 // В консоли: Invalid resource
