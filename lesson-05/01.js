@@ -1,4 +1,3 @@
-javascript
 const game = {
   resources: {
     gold: 100,
