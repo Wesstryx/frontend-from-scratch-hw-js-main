@@ -14,7 +14,6 @@ const game = {
   resources: {
     gold: 250,
     lumber: 100,
-    stone: 30
   },
 
   addResource: function(resource, amount) {
